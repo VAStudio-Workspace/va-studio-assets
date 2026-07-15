@@ -28,6 +28,12 @@
       "filename": "cozy_girl_working_01.png",
       "alt": "Cozy girl working at desk with warm lamp lighting",
       "tags": ["cozy", "indoor", "desk", "warm", "night"]
+    },
+    {
+      "id": "wp-cozy-girl-02",
+      "filename": "cozy_girl_lying_moonlight.png",
+      "alt": "Cozy girl lying under the moonlight",
+      "tags": ["cozy", "indoor", "desk", "warm", "night"]
     }
   ],
   "bibleQuotes": [
