@@ -4,8 +4,8 @@
   "instructions": "This file is the single remote manifest for VAStudio Pro's Working Session page. The GAS backend fetches it ~1x/day via UrlFetchApp. Edit any section below and push to main — changes propagate within 24h.",
   "playlists": [
     {
-      "id": "pl-lofi-radio",
-      "name": "Lofi Focus Radio",
+      "id": "pl-minecraft-relaxing-long-play",
+      "name": "Minecraft Relaxing Long Play",
       "type": "playlist",
       "playlistId": "PL0f20YMYMr-xouTtLx8a89HjHgOF1qjsh"
     },
@@ -16,10 +16,10 @@
       "playlistId": "PL0f20YMYMr-xlsHO0fZdu1tijgndkIfw6"
     },
     {
-      "id": "tr-ambient-study",
-      "name": "Ambient Study Session",
+      "id": "tr-soft-lofi-room-live",
+      "name": "Deep Focus - Soft Lofi",
       "type": "video",
-      "videoId": "jmy3c7gl5p4"
+      "videoId": "yf5NOyy1SXU"
     }
   ],
   "wallpapers": [
