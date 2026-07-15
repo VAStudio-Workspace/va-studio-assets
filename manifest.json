@@ -84,6 +84,11 @@
       "theme": "peace"
     },
     {
+      "verse": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+      "reference": "Psalm 23:4",
+      "theme": "assurance"
+    },
+    {
       "verse": "Set your minds on things above, not on earthly things.",
       "reference": "Colossians 3:2",
       "theme": "focus"
@@ -202,6 +207,51 @@
       "verse": "But seek first his kingdom and his righteousness, and all these things will be given to you as well. Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
       "reference": "Matthew 6:33-34",
       "theme": "assurance"
+    },
+    {
+      "verse": "The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace.",
+      "reference": "Numbers 6:24-26",
+      "theme": "blessing"
+    },
+    {
+      "verse": "For God so love the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+      "reference": "John 3:16",
+      "theme": "salvation"
+    },
+    {
+      "verse": "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds, because you know that the testing of your faith produces perseverance. Let perseverance finish its work so that you may be mature and complete, not lacking anything.",
+      "reference": "James 1:2-4",
+      "theme": "perseverance"
+    },
+    {
+      "verse": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.",
+      "reference": "James 1:5",
+      "theme": "wisdom"
+    },
+    {
+      "verse": "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind. That person should not expect to receive anything from the Lord. Such a person is double-minded and unstable in all they do.",
+      "reference": "James 1:6-8",
+      "theme": "wisdom"
+    },
+    {
+      "verse": "Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him.",
+      "reference": "James 1:12",
+      "theme": "perseverance"
+    },
+    {
+      "verse": "But the wisdom that comes from heaven is first of all pure; then peace-loving, considerate, submissive, full of mercy and good fruit, impartial and sincere.",
+      "reference": "James 3:17",
+      "theme": "wisdom"
+    },
+    {
+      "verse": "Peacemakers who sow in peace reap a harvest of righteousness.",
+      "reference": "James 3:18",
+      "theme": "wisdom"
+    },
+    {
+      "verse": "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.",
+      "reference": "James 5:16",
+      "theme": "healing"
     }
   ]
 }
