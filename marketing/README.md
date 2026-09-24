@@ -20,6 +20,10 @@ the catalog without bundling any content.
   "updated": "YYYY-MM-DD",            // last content update (ISO date)
   "courseImagesBase": "https://.../marketing/course-images/", // prefix for `image`
   "logosBase": "https://.../marketing/logos/",                // prefix for `logo`
+  "categories": [                     // top-level category vocabulary
+    { "id": "web-development", "label": "Web Development" },
+    { "id": "ai-ml", "label": "AI & Machine Learning" }
+  ],
   "courses": [
     {
       "id": "free-web-design",        // unique slug; also the thumbnail filename
@@ -30,7 +34,8 @@ the catalog without bundling any content.
       "provider": "freeCodeCamp",     // display name
       "image": "free-web-design.svg", // relative to courseImagesBase
       "logo": "freecodecamp.svg",     // relative to logosBase
-      "tags": ["web development", "html", "css"]
+      "tags": ["web development", "html", "css"],
+      "categories": ["web-development", "design"] // ids from top-level `categories`
     }
   ]
 }
@@ -43,13 +48,27 @@ the catalog without bundling any content.
 - `image` / `logo` are resolved against `courseImagesBase` / `logosBase`, so the
   CDN host can change without touching every entry.
 
+### Categories
+
+- The top-level `categories` array is the **vocabulary** the app uses to build
+  category filters/chips. Each entry is `{ "id": "<slug>", "label": "<display>" }`.
+- Every course has a `categories` array of one or more category `id`s drawn from
+  that vocabulary. At least one category is required.
+- Category `id`s are lowercase kebab-case slugs. Add new categories to the
+  top-level list **before** referencing them from a course; never inline a
+  category that is not declared there.
+- `label` is UI display text and may contain `&` and spaces (e.g.
+  `"AI & Machine Learning"`).
+
 ## Adding or replacing a course
 
 1. Add an entry to `courses.json#courses` with a new unique `id`.
 2. Add `course-images/<id>.svg` (a `640×360` thumbnail).
 3. If the provider is new, add `logos/<provider-slug>.svg` and set `logo` to it.
-4. Bump `updated` to today's date.
-5. Commit and push to `main`.
+4. Assign `categories` using one or more `id`s already declared in the top-level
+   `categories` array (add a new vocabulary entry first if needed).
+5. Bump `updated` to today's date.
+6. Commit and push to `main`.
 
 ## Thumbnail conventions (`course-images/`)
 

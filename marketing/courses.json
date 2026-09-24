@@ -3,6 +3,17 @@
   "updated": "2026-09-24",
   "courseImagesBase": "https://raw.githubusercontent.com/VAStudio-Workspace/va-studio-assets/main/marketing/course-images/",
   "logosBase": "https://raw.githubusercontent.com/VAStudio-Workspace/va-studio-assets/main/marketing/logos/",
+  "categories": [
+    { "id": "web-development", "label": "Web Development" },
+    { "id": "programming", "label": "Programming" },
+    { "id": "marketing", "label": "Digital Marketing" },
+    { "id": "ai-ml", "label": "AI & Machine Learning" },
+    { "id": "data-science", "label": "Data Science" },
+    { "id": "design", "label": "Design" },
+    { "id": "business", "label": "Business" },
+    { "id": "productivity", "label": "Productivity" },
+    { "id": "career", "label": "Career & Freelancing" }
+  ],
   "courses": [
     {
       "id": "free-web-design",
@@ -18,6 +29,10 @@
         "html",
         "css",
         "responsive design"
+      ],
+      "categories": [
+        "web-development",
+        "design"
       ]
     },
     {
@@ -34,6 +49,10 @@
         "seo",
         "social media",
         "google"
+      ],
+      "categories": [
+        "marketing",
+        "business"
       ]
     },
     {
@@ -50,6 +69,11 @@
         "python",
         "data science",
         "ai"
+      ],
+      "categories": [
+        "ai-ml",
+        "data-science",
+        "programming"
       ]
     },
     {
@@ -66,6 +90,10 @@
         "ai",
         "microsoft",
         "llm"
+      ],
+      "categories": [
+        "ai-ml",
+        "productivity"
       ]
     },
     {
@@ -82,6 +110,10 @@
         "programming",
         "c",
         "python"
+      ],
+      "categories": [
+        "programming",
+        "web-development"
       ]
     },
     {
@@ -97,6 +129,9 @@
         "python",
         "programming",
         "beginner"
+      ],
+      "categories": [
+        "programming"
       ]
     },
     {
@@ -112,6 +147,10 @@
         "canva",
         "graphic design",
         "design"
+      ],
+      "categories": [
+        "design",
+        "marketing"
       ]
     },
     {
@@ -128,6 +167,10 @@
         "statistics",
         "analytics",
         "python"
+      ],
+      "categories": [
+        "data-science",
+        "programming"
       ]
     },
     {
@@ -143,6 +186,10 @@
         "project management",
         "business",
         "productivity"
+      ],
+      "categories": [
+        "business",
+        "career"
       ]
     },
     {
@@ -159,6 +206,10 @@
         "algorithms",
         "programming",
         "web development"
+      ],
+      "categories": [
+        "web-development",
+        "programming"
       ]
     },
     {
@@ -175,6 +226,11 @@
         "full stack",
         "javascript",
         "react"
+      ],
+      "categories": [
+        "web-development",
+        "programming",
+        "career"
       ]
     },
     {
@@ -191,6 +247,10 @@
         "seo",
         "social media",
         "ads"
+      ],
+      "categories": [
+        "marketing",
+        "business"
       ]
     },
     {
@@ -207,6 +267,11 @@
         "spreadsheets",
         "data analysis",
         "productivity"
+      ],
+      "categories": [
+        "productivity",
+        "business",
+        "data-science"
       ]
     },
     {
@@ -223,6 +288,10 @@
         "ai",
         "productivity",
         "automation"
+      ],
+      "categories": [
+        "ai-ml",
+        "productivity"
       ]
     },
     {
@@ -238,6 +307,9 @@
         "graphic design",
         "typography",
         "photoshop",
+        "design"
+      ],
+      "categories": [
         "design"
       ]
     },
@@ -255,6 +327,10 @@
         "freelancing",
         "productivity",
         "business"
+      ],
+      "categories": [
+        "career",
+        "productivity"
       ]
     },
     {
@@ -271,6 +347,10 @@
         "sql",
         "data science",
         "google"
+      ],
+      "categories": [
+        "data-science",
+        "business"
       ]
     },
     {
@@ -287,6 +367,11 @@
         "machine learning",
         "deep learning",
         "python"
+      ],
+      "categories": [
+        "ai-ml",
+        "data-science",
+        "programming"
       ]
     },
     {
@@ -303,6 +388,10 @@
         "social media",
         "analytics",
         "advertising"
+      ],
+      "categories": [
+        "marketing",
+        "business"
       ]
     },
     {
@@ -319,6 +408,10 @@
         "marketing",
         "content",
         "branding"
+      ],
+      "categories": [
+        "marketing",
+        "design"
       ]
     }
   ]
