@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Udemy">
+  <rect width="256" height="256" rx="40" fill="#A435F0"/>
+  <rect width="256" height="256" rx="40" fill="#000000" opacity="0.06"/>
+  <text text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="74"><tspan x="128" y="128.0">Udemy</tspan></text>
+</svg>

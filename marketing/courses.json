@@ -1,0 +1,325 @@
+{
+  "version": 1,
+  "updated": "2026-09-24",
+  "courseImagesBase": "https://raw.githubusercontent.com/VAStudio-Workspace/va-studio-assets/main/marketing/course-images/",
+  "logosBase": "https://raw.githubusercontent.com/VAStudio-Workspace/va-studio-assets/main/marketing/logos/",
+  "courses": [
+    {
+      "id": "free-web-design",
+      "title": "Responsive Web Design Certification",
+      "description": "Learn to build modern, responsive websites from scratch using **HTML5** and **CSS3**. This free certification covers Flexbox, CSS Grid, accessibility, and hands-on projects.\n\n- Build 5 certification projects\n- No prior experience required",
+      "cost": "free",
+      "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+      "provider": "freeCodeCamp",
+      "image": "free-web-design.svg",
+      "logo": "freecodecamp.svg",
+      "tags": [
+        "web development",
+        "html",
+        "css",
+        "responsive design"
+      ]
+    },
+    {
+      "id": "free-digital-marketing",
+      "title": "Fundamentals of Digital Marketing",
+      "description": "A comprehensive introduction to digital marketing from **Google Digital Garage**. Master the fundamentals of SEO, SEM, social media, email marketing, and analytics.\n\n- Earn a certificate from Google\n- Learn at your own pace",
+      "cost": "free",
+      "url": "https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing",
+      "provider": "Google",
+      "image": "free-digital-marketing.svg",
+      "logo": "google.svg",
+      "tags": [
+        "digital marketing",
+        "seo",
+        "social media",
+        "google"
+      ]
+    },
+    {
+      "id": "free-intro-ml",
+      "title": "Intro to Machine Learning",
+      "description": "Get started with **machine learning** using practical, hands-on lessons from Kaggle. Learn the core concepts behind model building and validation.\n\n- Build your first ML model\n- Work with real datasets",
+      "cost": "free",
+      "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+      "provider": "Kaggle",
+      "image": "free-intro-ml.svg",
+      "logo": "kaggle.svg",
+      "tags": [
+        "machine learning",
+        "python",
+        "data science",
+        "ai"
+      ]
+    },
+    {
+      "id": "free-genai",
+      "title": "Introduction to Generative AI",
+      "description": "Discover how **generative AI** models work and how they are transforming business and productivity. This Microsoft Learn module explains large language models and responsible AI.\n\n- Understand core AI concepts\n- Learn responsible AI principles",
+      "cost": "free",
+      "url": "https://learn.microsoft.com/en-us/training/modules/introduction-to-generative-ai/",
+      "provider": "Microsoft Learn",
+      "image": "free-genai.svg",
+      "logo": "microsoft-learn.svg",
+      "tags": [
+        "generative ai",
+        "ai",
+        "microsoft",
+        "llm"
+      ]
+    },
+    {
+      "id": "free-cs50",
+      "title": "CS50: Introduction to Computer Science",
+      "description": "Harvard University's legendary **CS50** course introduces the intellectual enterprises of computer science and the art of programming. Solve real problems with C, Python, SQL, and more.\n\n- Taught by Harvard faculty\n- Beginner-friendly lectures",
+      "cost": "free",
+      "url": "https://www.edx.org/cs50",
+      "provider": "edX",
+      "image": "free-cs50.svg",
+      "logo": "edx.svg",
+      "tags": [
+        "computer science",
+        "programming",
+        "c",
+        "python"
+      ]
+    },
+    {
+      "id": "free-python-beginners",
+      "title": "Python for Absolute Beginners",
+      "description": "Start your programming journey with **Python**, one of the most popular and beginner-friendly languages. This free course walks you through the basics step by step.\n\n- Write your first programs\n- Practice with hands-on exercises",
+      "cost": "free",
+      "url": "https://invol.co/va-udemy-python-free",
+      "provider": "Udemy",
+      "image": "free-python-beginners.svg",
+      "logo": "udemy.svg",
+      "tags": [
+        "python",
+        "programming",
+        "beginner"
+      ]
+    },
+    {
+      "id": "free-canva-design",
+      "title": "Canva Graphic Design for Beginners",
+      "description": "Learn to create stunning graphics with **Canva** — no design experience needed. Master templates, color, typography, and layout for social media and print.\n\n- Design like a pro\n- Perfect for freelancers",
+      "cost": "free",
+      "url": "https://invol.co/va-udemy-canva-free",
+      "provider": "Udemy",
+      "image": "free-canva-design.svg",
+      "logo": "udemy.svg",
+      "tags": [
+        "canva",
+        "graphic design",
+        "design"
+      ]
+    },
+    {
+      "id": "free-data-foundations",
+      "title": "Data Science Foundations",
+      "description": "Build a solid foundation in **data science** with this free academy course from Great Learning. Explore statistics, data visualization, and the data science workflow.\n\n- Learn core data concepts\n- Free certificate of completion",
+      "cost": "free",
+      "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-foundations",
+      "provider": "Great Learning",
+      "image": "free-data-foundations.svg",
+      "logo": "great-learning.svg",
+      "tags": [
+        "data science",
+        "statistics",
+        "analytics",
+        "python"
+      ]
+    },
+    {
+      "id": "free-project-mgmt",
+      "title": "Introduction to Project Management",
+      "description": "Learn the fundamentals of **project management** from Google experts. Understand the project lifecycle, Agile, and how to keep teams on track.\n\n- Audit the course for free\n- Industry-recognized content",
+      "cost": "free",
+      "url": "https://www.coursera.org/learn/project-management-foundations",
+      "provider": "Coursera",
+      "image": "free-project-mgmt.svg",
+      "logo": "coursera.svg",
+      "tags": [
+        "project management",
+        "business",
+        "productivity"
+      ]
+    },
+    {
+      "id": "free-js-algorithms",
+      "title": "JavaScript Algorithms and Data Structures",
+      "description": "Master **JavaScript** and computer science fundamentals with freeCodeCamp's interactive curriculum. Learn algorithms, data structures, OOP, and functional programming.\n\n- 300+ hours of content\n- Build 5 certification projects",
+      "cost": "free",
+      "url": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/",
+      "provider": "freeCodeCamp",
+      "image": "free-js-algorithms.svg",
+      "logo": "freecodecamp.svg",
+      "tags": [
+        "javascript",
+        "algorithms",
+        "programming",
+        "web development"
+      ]
+    },
+    {
+      "id": "premium-web-bootcamp",
+      "title": "The Complete Web Development Bootcamp 2026",
+      "description": "Become a **full-stack web developer** with the best-selling Udemy bootcamp. Build real projects with HTML, CSS, JavaScript, React, Node.js, and databases.\n\n- 60+ hours of video\n- Build 16+ portfolio projects",
+      "cost": "premium",
+      "url": "https://invol.co/va-udemy-web-bootcamp",
+      "provider": "Udemy",
+      "image": "premium-web-bootcamp.svg",
+      "logo": "udemy.svg",
+      "tags": [
+        "web development",
+        "full stack",
+        "javascript",
+        "react"
+      ]
+    },
+    {
+      "id": "premium-digital-marketing",
+      "title": "The Complete Digital Marketing Masterclass",
+      "description": "A complete **digital marketing** masterclass covering SEO, social media, email, Google Ads, and analytics. Turn skills into measurable growth.\n\n- 23 courses in one\n- Actionable marketing strategies",
+      "cost": "premium",
+      "url": "https://invol.co/va-udemy-digital-marketing",
+      "provider": "Udemy",
+      "image": "premium-digital-marketing.svg",
+      "logo": "udemy.svg",
+      "tags": [
+        "digital marketing",
+        "seo",
+        "social media",
+        "ads"
+      ]
+    },
+    {
+      "id": "premium-excel",
+      "title": "Microsoft Excel: Beginner to Advanced",
+      "description": "Go from spreadsheet novice to **Excel** power user. Master formulas, pivot tables, charts, and data analysis for the workplace.\n\n- Hands-on exercises\n- Real-world business examples",
+      "cost": "premium",
+      "url": "https://invol.co/va-udemy-excel",
+      "provider": "Udemy",
+      "image": "premium-excel.svg",
+      "logo": "udemy.svg",
+      "tags": [
+        "excel",
+        "spreadsheets",
+        "data analysis",
+        "productivity"
+      ]
+    },
+    {
+      "id": "premium-ai-productivity",
+      "title": "ChatGPT & AI Productivity Masterclass",
+      "description": "Harness **ChatGPT** and AI tools to supercharge your productivity and automate everyday tasks. Practical prompts and workflows included.\n\n- Save hours every week\n- Automate writing and research",
+      "cost": "premium",
+      "url": "https://invol.co/va-udemy-ai-productivity",
+      "provider": "Udemy",
+      "image": "premium-ai-productivity.svg",
+      "logo": "udemy.svg",
+      "tags": [
+        "chatgpt",
+        "ai",
+        "productivity",
+        "automation"
+      ]
+    },
+    {
+      "id": "premium-graphic-design",
+      "title": "Graphic Design Masterclass: Learn Great Design",
+      "description": "Master the principles of **graphic design**, from typography and color theory to layout and composition. Ideal for aspiring designers and freelancers.\n\n- Learn design theory\n- Build a professional portfolio",
+      "cost": "premium",
+      "url": "https://invol.co/va-udemy-graphic-design",
+      "provider": "Udemy",
+      "image": "premium-graphic-design.svg",
+      "logo": "udemy.svg",
+      "tags": [
+        "graphic design",
+        "typography",
+        "photoshop",
+        "design"
+      ]
+    },
+    {
+      "id": "premium-virtual-assistant",
+      "title": "The Complete Virtual Assistant Course",
+      "description": "Launch your **virtual assistant** career with a complete practical course. Learn client management, tools, and how to grow a profitable freelance business.\n\n- Find your first clients\n- Build a remote workflow",
+      "cost": "premium",
+      "url": "https://invol.co/va-udemy-virtual-assistant",
+      "provider": "Udemy",
+      "image": "premium-virtual-assistant.svg",
+      "logo": "udemy.svg",
+      "tags": [
+        "virtual assistant",
+        "freelancing",
+        "productivity",
+        "business"
+      ]
+    },
+    {
+      "id": "premium-google-data-analytics",
+      "title": "Google Data Analytics Professional Certificate",
+      "description": "Prepare for a career in **data analytics** with Google's professional certificate. Learn data cleaning, analysis, visualization, and SQL through hands-on projects.\n\n- Job-ready certificate\n- Taught by Google experts",
+      "cost": "premium",
+      "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+      "provider": "Coursera",
+      "image": "premium-google-data-analytics.svg",
+      "logo": "coursera.svg",
+      "tags": [
+        "data analytics",
+        "sql",
+        "data science",
+        "google"
+      ]
+    },
+    {
+      "id": "premium-ibm-ai",
+      "title": "IBM AI Engineering Professional Certificate",
+      "description": "Advance your career with IBM's **AI Engineering** certificate. Learn machine learning, deep learning, and deploy models with TensorFlow and Keras.\n\n- Hands-on labs\n- Build an AI portfolio",
+      "cost": "premium",
+      "url": "https://www.coursera.org/professional-certificates/ai-engineer",
+      "provider": "Coursera",
+      "image": "premium-ibm-ai.svg",
+      "logo": "coursera.svg",
+      "tags": [
+        "ai",
+        "machine learning",
+        "deep learning",
+        "python"
+      ]
+    },
+    {
+      "id": "premium-digital-marketing-nano",
+      "title": "Digital Marketing Nanodegree",
+      "description": "Become a job-ready **digital marketer** with Udacity's project-based Nanodegree. Master content, social media, SEM, and analytics.\n\n- Real-world projects\n- Mentor support",
+      "cost": "premium",
+      "url": "https://www.udacity.com/course/digital-marketing-nanodegree--nd018",
+      "provider": "Udacity",
+      "image": "premium-digital-marketing-nano.svg",
+      "logo": "udacity.svg",
+      "tags": [
+        "digital marketing",
+        "social media",
+        "analytics",
+        "advertising"
+      ]
+    },
+    {
+      "id": "premium-social-media",
+      "title": "Social Media Marketing Foundations",
+      "description": "Learn how to build and execute a winning **social media marketing** strategy from LinkedIn experts. Covers content, community, and paid campaigns.\n\n- Add certificate to LinkedIn\n- Practical frameworks",
+      "cost": "premium",
+      "url": "https://www.linkedin.com/learning/social-media-marketing-foundations",
+      "provider": "LinkedIn Learning",
+      "image": "premium-social-media.svg",
+      "logo": "linkedin-learning.svg",
+      "tags": [
+        "social media",
+        "marketing",
+        "content",
+        "branding"
+      ]
+    }
+  ]
+}

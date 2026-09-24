@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="freeCodeCamp">
+  <rect width="256" height="256" rx="40" fill="#0A0A23"/>
+  <rect width="256" height="256" rx="40" fill="#000000" opacity="0.06"/>
+  <text text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="48"><tspan x="128" y="128.0">freeCodeCamp</tspan></text>
+</svg>
