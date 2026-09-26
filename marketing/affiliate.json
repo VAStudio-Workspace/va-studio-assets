@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "updated": "2026-09-27",
+  "imageBase": "https://raw.githubusercontent.com/VAStudio-Workspace/va-studio-assets/main/marketing/affiliate-images/",
+  "ads": [
+    {
+      "id": "shopee-payday-15",
+      "title": "Shopee Payday Sale: Extra 15% Off Everything",
+      "description": "Treat yourself this payday with Shopee's biggest mid-month sale. Enjoy extra discounts, free shipping vouchers, and flash deals across electronics, fashion, and home essentials.",
+      "url": "https://invol.co/cl_shopee-payday-15",
+      "image": "shopee-payday-15.svg",
+      "partner": "Shopee",
+      "events": ["payday-15"],
+      "tags": ["shopping", "deals"],
+      "accent": "#ee4d2d"
+    },
+    {
+      "id": "lazada-payday-15",
+      "title": "Lazada Payday Special: Up to 50% Off",
+      "description": "Stretch your salary further with Lazada's Payday Special. Save up to 50% on tech, beauty, and groceries, plus stackable vouchers at checkout.",
+      "url": "https://invol.co/cl_lazada-payday-15",
+      "image": "lazada-payday-15.svg",
+      "partner": "Lazada",
+      "events": ["payday-15"],
+      "tags": ["shopping", "deals"],
+      "accent": "#0f146d"
+    },
+    {
+      "id": "shopee-payday-30",
+      "title": "Shopee End-of-Month Payday Blowout",
+      "description": "Close out the month with massive savings on Shopee. Grab limited-time vouchers, 1-for-1 deals, and low-price guarantees before they sell out.",
+      "url": "https://invol.co/cl_shopee-payday-30",
+      "image": "shopee-payday-30.svg",
+      "partner": "Shopee",
+      "events": ["payday-30"],
+      "tags": ["shopping", "deals"],
+      "accent": "#f53d2d"
+    },
+    {
+      "id": "lazada-10-10",
+      "title": "Lazada 10.10 Mega Sale Is Here",
+      "description": "The Lazada 10.10 Mega Sale brings jaw-dropping prices on thousands of items. Shop exclusive brand deals and collect vouchers for maximum savings.",
+      "url": "https://invol.co/cl_lazada-10-10",
+      "image": "lazada-10-10.svg",
+      "partner": "Lazada",
+      "events": ["10-10"],
+      "tags": ["shopping", "deals"],
+      "accent": "#1a1aff"
+    },
+    {
+      "id": "shopee-10-10",
+      "title": "Shopee 10.10: Biggest Deals of the Year",
+      "description": "Shopee's 10.10 sale is packed with super deals, free shipping, and hourly flash sales. Do not miss the lowest prices of the season.",
+      "url": "https://invol.co/cl_shopee-10-10",
+      "image": "shopee-10-10.svg",
+      "partner": "Shopee",
+      "events": ["10-10"],
+      "tags": ["shopping", "deals"],
+      "accent": "#ee4d2d"
+    },
+    {
+      "id": "shopee-11-11",
+      "title": "Shopee 11.11 Big Sale: Lowest Prices",
+      "description": "The legendary Shopee 11.11 Big Sale returns with unbeatable offers. Add to cart now and unlock bonus vouchers, gifts, and free shipping.",
+      "url": "https://invol.co/cl_shopee-11-11",
+      "image": "shopee-11-11.svg",
+      "partner": "Shopee",
+      "events": ["11-11"],
+      "tags": ["shopping", "deals"],
+      "accent": "#ff5722"
+    },
+    {
+      "id": "lazada-12-12",
+      "title": "Lazada 12.12 Grand Finale Sale",
+      "description": "Finish the year strong with Lazada's 12.12 Grand Finale. Enjoy year-end clearance prices, bank discounts, and last-chance holiday gifts.",
+      "url": "https://invol.co/cl_lazada-12-12",
+      "image": "lazada-12-12.svg",
+      "partner": "Lazada",
+      "events": ["12-12"],
+      "tags": ["shopping", "deals"],
+      "accent": "#2b0a8f"
+    },
+    {
+      "id": "shopee-christmas",
+      "title": "Shopee Christmas Gift Fiesta",
+      "description": "Find the perfect gift for everyone on your list at Shopee's Christmas Gift Fiesta. Festive deals, gift wraps, and guaranteed delivery in time for the holidays.",
+      "url": "https://invol.co/cl_shopee-christmas",
+      "image": "shopee-christmas.svg",
+      "partner": "Shopee",
+      "events": ["christmas"],
+      "tags": ["shopping", "christmas"],
+      "accent": "#b91c1c"
+    },
+    {
+      "id": "lazada-christmas",
+      "title": "Lazada Holiday and New Year Sale",
+      "description": "Celebrate the season with Lazada's Holiday Sale. Save on gifts, party essentials, and home upgrades, then ring in the New Year with bonus vouchers.",
+      "url": "https://invol.co/cl_lazada-christmas",
+      "image": "lazada-christmas.svg",
+      "partner": "Lazada",
+      "events": ["christmas", "new-year"],
+      "tags": ["shopping", "christmas", "new-year"],
+      "accent": "#0f766e"
+    },
+    {
+      "id": "tiktok-shop-new-year",
+      "title": "TikTok Shop New Year Live Sale",
+      "description": "Start the year with viral finds at TikTok Shop. Join live-selling events for exclusive discounts on trending beauty, gadgets, and fashion.",
+      "url": "https://invol.co/cl_tiktok-shop-new-year",
+      "image": "tiktok-shop-new-year.svg",
+      "partner": "TikTok Shop",
+      "events": ["new-year"],
+      "tags": ["shopping", "trending"],
+      "accent": "#111827"
+    },
+    {
+      "id": "shopee-tech-deals",
+      "title": "Shopee Tech Deals: Gadgets and More",
+      "description": "Upgrade your setup with Shopee's Tech Deals. Save on smartphones, laptops, audio gear, and accessories from top brands all year round.",
+      "url": "https://invol.co/cl_shopee-tech-deals",
+      "image": "shopee-tech-deals.svg",
+      "partner": "Shopee",
+      "events": [],
+      "tags": ["electronics", "deals"],
+      "accent": "#0ea5e9"
+    },
+    {
+      "id": "lazada-home-essentials",
+      "title": "Lazada Home Essentials Sale",
+      "description": "Refresh every room with Lazada's Home Essentials. Shop cookware, storage, bedding, and decor at everyday low prices with fast delivery.",
+      "url": "https://www.lazada.com.my/shop-home-living/",
+      "image": "lazada-home-essentials.svg",
+      "partner": "Lazada",
+      "events": [],
+      "tags": ["home", "deals"],
+      "accent": "#7c3aed"
+    },
+    {
+      "id": "traveloka-getaway",
+      "title": "Traveloka Getaway: Flights and Hotels",
+      "description": "Plan your next escape with Traveloka. Unlock exclusive flight and hotel deals, plus payday promos for your dream getaway.",
+      "url": "https://invol.co/cl_traveloka-getaway",
+      "image": "traveloka-getaway.svg",
+      "partner": "Traveloka",
+      "events": [],
+      "tags": ["travel", "hotels"],
+      "accent": "#0770cd"
+    },
+    {
+      "id": "agoda-hotel-sale",
+      "title": "Agoda Hotel Sale: Save Big on Stays",
+      "description": "Book your next stay with Agoda and enjoy member-only rates on hotels and resorts worldwide. Reserve now, pay later on selected properties.",
+      "url": "https://bit.ly/agoda-hotel-sale",
+      "image": "agoda-hotel-sale.svg",
+      "partner": "Agoda",
+      "events": [],
+      "tags": ["travel", "hotels"],
+      "accent": "#e11d48"
+    }
+  ]
+}

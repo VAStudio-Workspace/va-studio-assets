@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Lazada Home Essentials Sale">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <rect width="640" height="360" fill="#000000" opacity="0.32"/>
+  <text x="32" y="52" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="20" letter-spacing="2" style="font-variant: small-caps; text-transform: lowercase;" opacity="0.95">Lazada</text>
+  <rect x="508" y="26" width="100" height="36" rx="18" fill="#111827" opacity="0.85"/>
+  <text x="558" y="50" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="17" letter-spacing="1">DEAL</text>
+  <text fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="34"><tspan x="48" y="178.0">Lazada Home</tspan><tspan x="48" y="222.0">Essentials Sale</tspan></text>
+</svg>
